@@ -10,6 +10,7 @@ In this Lab, I installed Active Directory on the first domain controller in an A
 - <b>Windows Server 2019</b>
 - <b>PowerShell</b>
 - <b>Hyper-V Manager</b>
+- <b>Active Directory</b>
 
 <h2>Program Screenshots:</h2>
 
